@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+I am a Ruby on Rails dev currently learning JavaScript and React. Check out my work below...
+
+[My Portfolio](/https://terminal.turing.edu/profiles/1141)
+
+
+## About Me:
+- I am a recent grad from Turing School of Software and Design
+- Background in SaaS Sales
+- Lover of all things hockey
+
+## 📫 How to reach me:
+- Email: cvalesares@gmail.com
+- [LinkedIn](/https://www.linkedin.com/in/christian-valesares/)
+
 <!--
 **cvalesares/cvalesares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
