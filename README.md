@@ -2,7 +2,7 @@
 
 I am a Ruby on Rails dev currently learning JavaScript and React. Check out my work below...
 
-[My Portfolio](/https://terminal.turing.edu/profiles/1141)
+[My Portfolio](/https://terminal.turing.edu/profiles/1141/)
 
 
 ## About Me:
