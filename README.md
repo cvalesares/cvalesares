@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I am a Ruby on Rails dev currently learning JavaScript and React. Check out my work below...
+Check out my work below...
 
 [My Portfolio](https://terminal.turing.edu/profiles/1141)
 
 
 ## About Me:
-- I am a recent grad from Turing School of Software and Design
-- Background in SaaS Sales
+- I am a grad from Elon & Turing School of Software and Design
+- Background in Engineering and SaaS Sales
 - Lover of all things hockey
 
 ## 📫 How to reach me:
